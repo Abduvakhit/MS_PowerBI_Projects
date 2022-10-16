@@ -1,4 +1,4 @@
-### PowerBI_Project
+### World Cups Analysis 1930 - 2014
 
 The following project was created to analyze all Football World Cups 1930 - 2014.
 
